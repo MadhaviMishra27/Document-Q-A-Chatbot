@@ -15,6 +15,11 @@ A free, locally-running Document Question & Answer system using Retrieval-Augmen
 - **4GB+ RAM** (8GB recommended for better performance)
 - **2GB+ free disk space** for AI models
 - **Stable internet** for initial model downloads
+
+## MAIN INTERFACE
+
+![Document Q&A Chatbot Interface](image/interface.png)
+
 ### 1. Installation
 ```bash
 # Clone the repository
@@ -27,9 +32,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 
-## MAIN INTERFACE
 
-![Document Q&A Chatbot Interface](image/interface.png)
 
 
 
